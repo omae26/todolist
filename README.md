@@ -1,2 +1,3 @@
 # To-do list
-This is a simple project, that allows a user to create a to do list and mark it off when a task is done
+This is a simple project, that allows a user to create a to do list 
+The user can add new tasks and mark of tasks when done.
